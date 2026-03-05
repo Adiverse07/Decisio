@@ -4,6 +4,8 @@ A lightweight architectural decision-tracking system for engineering teams. Team
 
 The goal is a small, well-structured system — not a feature-rich one. Every layer validates its own boundaries, business rules are enforced in both application code and database constraints, and every state change is logged.
 
+> 🎥 **Video Walkthrough:** [Watch the full project explanation here](https://drive.google.com/file/d/1Nb4UAJ0a9LJ8qm37ee-wrTRoNa8US18z/view?usp=sharing)
+
 ---
 
 ## 🛠 Tech Stack
