@@ -233,6 +233,8 @@ Decisio/
 
 ## 🏗 Architecture
 
+![Architecture Diagram](https://github.com/AdityaKale22420263/Testing/blob/main/hosting/better/FRONTEND%20(1).png?raw=true)
+
 ### Backend — Three-Layer Separation
 
 ```
@@ -258,6 +260,10 @@ Component
 - **AuthContext** manages login/logout, stores JWT in localStorage, and provides the current user to the component tree.
 - **DataContext** wraps all data fetching and mutation. Components never call the API directly — they call context methods like `createDecision()` or `transitionStatus()`.
 - **ApiClient** is a singleton class that attaches the JWT token, handles errors, and returns typed responses.
+
+### Database Schema
+
+![ER Diagram](https://github.com/AdityaKale22420263/Testing/blob/main/hosting/better/Decisio%20ER%20Diagrams.jpg?raw=true)
 
 ### Validation at Three Levels
 
