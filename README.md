@@ -233,7 +233,9 @@ Decisio/
 
 ## 🏗 Architecture
 
-![Architecture Diagram](https://github.com/AdityaKale22420263/Testing/blob/main/hosting/better/FRONTEND%20(1).png?raw=true)
+<p align="center">
+  <img src="https://github.com/AdityaKale22420263/Testing/blob/main/hosting/better/FRONTEND%20(1).png?raw=true" alt="Architecture Diagram" />
+</p>
 
 ### Backend — Three-Layer Separation
 
@@ -263,7 +265,9 @@ Component
 
 ### Database Schema
 
-![ER Diagram](https://github.com/AdityaKale22420263/Testing/blob/main/hosting/better/Decisio%20ER%20Diagrams.jpg?raw=true)
+<p align="center">
+  <img src="https://github.com/AdityaKale22420263/Testing/blob/main/hosting/better/Decisio%20ER%20Diagrams.jpg?raw=true" alt="ER Diagram" />
+</p>
 
 ### Validation at Three Levels
 
